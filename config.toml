@@ -1,0 +1,31 @@
+# Cấu hình listing-watcher
+
+# Số giây giữa hai lần kiểm tra. Nếu chưa có GITHUB_TOKEN, bot tự giãn lên 180 giây/repo.
+poll_seconds = 60
+
+# ---------------------------------------------------------------------------
+# BitGoJS: thư viện công khai của BitGo (bên lưu ký). Token mới được khai báo
+# trong modules/statics/src/ dưới dạng 'chain:token', ví dụ 'hoodeth:cashcat'.
+# ---------------------------------------------------------------------------
+[[repos]]
+name = "BitGo/BitGoJS"
+
+# Chỉ xét các file khớp một trong các mẫu này (dấu * khớp cả dấu /).
+path_globs = ["modules/statics/src/*"]
+
+# Chain cần ưu tiên: token mới trên các chain này được đánh dấu ƯU TIÊN CAO.
+# hoodeth = Robinhood Chain. Thêm chain khác bạn quan tâm vào đây, ví dụ "sol", "base".
+watch_chains = ["hoodeth"]
+
+# true: vẫn báo token mới trên các chain khác (nhiều tin hơn).
+# false: chỉ báo token trên watch_chains.
+alert_other_chains = true
+
+# Mẫu nhận diện mã token trong các dòng được thêm. Nhóm bắt đầu tiên là mã token.
+# Bỏ dòng này đi thì bot dùng mẫu mặc định (giống hệt mẫu dưới).
+identifier_regex = '''['"]((?:ofc)?[a-z0-9]+:[a-z0-9$._-]+)['"]'''
+
+# ---------------------------------------------------------------------------
+# Muốn theo dõi repo khác: thêm một khối [[repos]] nữa, đổi name, path_globs
+# và identifier_regex cho hợp với cách repo đó khai báo token.
+# ---------------------------------------------------------------------------
