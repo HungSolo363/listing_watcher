@@ -1,7 +1,7 @@
 {
  "etags": {
-  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"157ea18573fdc32dae650654c07bc671e80878297722a761130071d57acc1d9a\"",
-  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"3eeba06cd49603955b751f1f77fdf271cc982b30dbc490b0507fcc04dc8dfade\""
+  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"44ab6f6f411c4dd9f6209b731815aa38a7fbc4ef43cd69d0d4382683fcefe793\"",
+  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"4594b3219b98b8cd51bf6662ac4d5277d725dec5928ccc9f06482c78458c2497\""
  },
  "repos": {
   "BitGo/BitGoJS": {
@@ -61,7 +61,12 @@
     "627ff4524bbe82e71b8fb8c4a5420dbfa2759e3d",
     "a197be3d977a50589c9e8a2dd0e1e52b299e7416",
     "2ac6eafed928a33f9fbcf364955b894efaf69a95",
-    "ecbc167852d51984c3ae843383b3def399f845bf"
+    "ecbc167852d51984c3ae843383b3def399f845bf",
+    "ac832ab30b95db6bea8dd8eb8058e9e83389cdc4",
+    "213b29faa1cd52336e92bc55702f1d6ff7e0afdd",
+    "5cefee857de7b1c352c2f0deb0711aab644b9e23",
+    "0b5cd8615a66f586fdd741cb567ec7ef0dd0d483",
+    "aaeec070e257309fbdb53c1cde908af0a136f5db"
    ],
    "pr_heads": {
     "10000": "7affce90645d92713224c6d4a9ec8bec08a924c2",
@@ -98,11 +103,12 @@
     "10196": "2ac6eafed928a33f9fbcf364955b894efaf69a95",
     "10197": "cef73925db4e4cecde5b675588a9c91900af25d6",
     "10198": "eba01b013cc7417e3ae5bcd94dffa67023783791",
-    "10199": "b5cea4dce06ef36dc6369c113ac684caf4182b73",
-    "10200": "26821053e90f9a38a372d4ae6ab71e246213fa70",
+    "10199": "19da1ea9ab4d7f4f339d3cf9a28ce6b97c2b232f",
+    "10200": "971d3dffc67f414b3107cf9fd19867dcde07fa2e",
     "10201": "65c6e2d863ec0bfefa205bed476b3db3b2e5f1aa",
     "10203": "4f04992e3a1505be01991867b002da7021808f59",
     "10204": "98f3897ac9177575ddca52563d8b04f42d82c7bd",
+    "10205": "2e4f51fa65733c2f55885f0ffd4d5dbef269699b",
     "9293": "8454f5786ad0aae94dbb407da1b0c88e2e56a8ee",
     "9463": "36a498df61b27be56501239ab01de0c27d2c534c",
     "9757": "c62ba33766338d6b896c836ffc39e228ef601228",
@@ -587,6 +593,10 @@
     "polygon:spol": {
      "first_seen": "2026-11-15T12:52:20+00:00",
      "url": "https://github.com/BitGo/BitGoJS/pull/10130"
+    },
+    "sepeth:stgspcxgo": {
+     "first_seen": "2026-11-19T16:56:28+00:00",
+     "url": "https://github.com/BitGo/BitGoJS/pull/10205"
     },
     "sol:bobs": {
      "first_seen": "2026-11-15T12:52:20+00:00",
