@@ -1,7 +1,7 @@
 {
  "etags": {
-  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"7621f73702aa15698539899ff08ff50f84b6abdd255fb7fe9d5d9bf96427cf0f\"",
-  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"700a9b379eafc750775911f37e81a57535bc116fb0378361322b6e923b101c0e\""
+  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"a07e9d179585b46a6b45d225e4b21980ed0b9d0c375e1949a8dfdb6d6915ff8c\"",
+  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"03c271fe29317aab77d037f348f330d04c78329bebfd2ff69f1a014e0362961f\""
  },
  "repos": {
   "BitGo/BitGoJS": {
@@ -76,11 +76,16 @@
     "6dc27e48e14377a90dd502ff3233ac23bffd1150",
     "64a855d9545e90328c523f095b2e907d30343692",
     "f9899aac8ac480fc2035e7e99ecc859705830ace",
-    "1d1d69c3ec648cbad7f89e16ad5a51d13e54655f"
+    "1d1d69c3ec648cbad7f89e16ad5a51d13e54655f",
+    "2e4f51fa65733c2f55885f0ffd4d5dbef269699b",
+    "211b5a64b47aa70c028dbe8c2d7bf231b47e0c9e",
+    "a9901fd8e9874b449fd1dea60a86bafefae41143",
+    "f60a386d851439a646cb90e6b5a42a79ba8a138f",
+    "b0cd730719085fb0f143fb9d50e7fb76d45ad577"
    ],
    "pr_heads": {
     "10000": "7affce90645d92713224c6d4a9ec8bec08a924c2",
-    "10004": "ee69c80be4770fc74fdca9dc1acf40bd5238baaf",
+    "10004": "028169a231ecd73ca651769cbb7132d49cbee0dc",
     "10048": "4f085b33d26ec153b89dd9d63112b09832aa942a",
     "10052": "76153e55d6061b22e78b719ce928b623b61a6dfe",
     "10068": "77050efacf7d85a88bf0d6fe64556e4ecd150afb",
@@ -116,10 +121,10 @@
     "10199": "19da1ea9ab4d7f4f339d3cf9a28ce6b97c2b232f",
     "10200": "971d3dffc67f414b3107cf9fd19867dcde07fa2e",
     "10201": "65c6e2d863ec0bfefa205bed476b3db3b2e5f1aa",
-    "10203": "4f04992e3a1505be01991867b002da7021808f59",
-    "10204": "98f3897ac9177575ddca52563d8b04f42d82c7bd",
+    "10203": "c0bc68aec91ed9af3926e19224f594659978e161",
+    "10204": "32517069f0ebbf7f708d03da50745712cdae1c8a",
     "10205": "2e4f51fa65733c2f55885f0ffd4d5dbef269699b",
-    "10206": "d363c4c2fd3f681d4046b2d2fbb7c0c369aaf41b",
+    "10206": "4d462d8b690979a110fee03db27687912d6f7626",
     "10207": "6098a44a61759cd158e082e0e66066c42764a7ba",
     "10209": "b5558f1414c61362da8b7f8cf758b3642c5154fa",
     "10211": "4ec11f512013bb3cd33420b43a4447feaa5bbfea",
