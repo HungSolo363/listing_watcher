@@ -1,7 +1,7 @@
 {
  "etags": {
-  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"f12cc6120a5ff223b7b310bcabe6b2476c9a55542fd2327cb6d37aba8922f545\"",
-  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"490331321194cbaa61882c9e18062adb17ec00862dc23561f0df3d4fbe4aec69\""
+  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"7fe533c46d2a8dad0ee6505b74ec143e62ff36d8cb38fc927318825f3a854999\"",
+  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"d57396649fd35547f511dd1600ee598fa4f811eebdeea44c40fe3fa9e5d7075b\""
  },
  "repos": {
   "BitGo/BitGoJS": {
