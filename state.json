@@ -1,7 +1,7 @@
 {
  "etags": {
-  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"5c930f06a1709d8aaea0cb0db0a0356dca7ac8217d22238db650809f89d16129\"",
-  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"138125dd21136d73068824e1d0586e80b1e6d33011996623bb701bc1c1172b1b\""
+  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"4b68183cfb11fc52f9b174884ab2f7ea4b80795e1aef6f1cf5e6411313fed06d\"",
+  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"075c887686f62f78b120da78e423afb06ae3a934b86806b221b7440ecc1207d8\""
  },
  "repos": {
   "BitGo/BitGoJS": {
@@ -88,7 +88,14 @@
     "be7af5e2a71b283ec283624d96a850086b1428c6",
     "8a08e3840add597c1eecedd544c3eabba27e6ceb",
     "fccfea22ca436d241b07397e9d5f950d0a3ea9c7",
-    "03cb809824b846a328d61dd393b3673f27f35d0e"
+    "03cb809824b846a328d61dd393b3673f27f35d0e",
+    "0618d1077f837261a122e7422543baa087262c5d",
+    "9113b40745739bb0c7d7bb91da111694aca63ae2",
+    "fa640570592f020895061271f74df235c44ded28",
+    "1e436ca2c6087f818b2a78bb34332f145ba61d03",
+    "3513f7ad4f7d05dab4cb0d08d45532a976f05fbe",
+    "1823e001ee12a607b924c9b2d06e9611b8efdd27",
+    "654ce538ab72e658d264c64d8af4732cd194922e"
    ],
    "pr_heads": {
     "10000": "7affce90645d92713224c6d4a9ec8bec08a924c2",
@@ -123,9 +130,9 @@
     "10191": "fe6c02f3f00d15e509ce1028d2a6e4718e03c60f",
     "10192": "213b29faa1cd52336e92bc55702f1d6ff7e0afdd",
     "10196": "2ac6eafed928a33f9fbcf364955b894efaf69a95",
-    "10197": "cef73925db4e4cecde5b675588a9c91900af25d6",
+    "10197": "31ede1b019a339e53b40703bcd3c88eb28c8b087",
     "10198": "eba01b013cc7417e3ae5bcd94dffa67023783791",
-    "10199": "19da1ea9ab4d7f4f339d3cf9a28ce6b97c2b232f",
+    "10199": "f3fcb18954f083146414d2e7b0424849acbaaab6",
     "10200": "9113b40745739bb0c7d7bb91da111694aca63ae2",
     "10201": "65c6e2d863ec0bfefa205bed476b3db3b2e5f1aa",
     "10203": "c0bc68aec91ed9af3926e19224f594659978e161",
