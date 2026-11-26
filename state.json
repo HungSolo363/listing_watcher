@@ -1,7 +1,7 @@
 {
  "etags": {
-  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"7edc096d6bc238784a0f93dfa30ae325ca795527eb9dd2ae8df5d5936c4f04d5\"",
-  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"bd50516ae95e0760bb4b1d389d6ca2e7c0fb2e69272037ee675cc8a207fcdbc0\""
+  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"95618c89c7152328e7e1ed36659cdbe2ba3c782441d5291554b75c73eb1b2d3a\"",
+  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"f71d41801a3988a0ace12eb1c864a30fa7d3982c0e0508dd6e3c7f8214f4199d\""
  },
  "repos": {
   "BitGo/BitGoJS": {
@@ -123,7 +123,9 @@
     "7a3f660c09dd54c092b46ce883422ea504ff94e6",
     "63f318dfa28b2146154c875307e71d48a090e4d3",
     "e999a064fd99e6fae5ce58dde1ce1fe0ad77d4b2",
-    "67f1d49603253902ebf5a7f60b11033f650db566"
+    "67f1d49603253902ebf5a7f60b11033f650db566",
+    "ee891d3e359bf57c857d416dcda02871fa8d8dc9",
+    "8fd64f86b263d91e0dc12f4df258c7f6960ed601"
    ],
    "pr_heads": {
     "10000": "7affce90645d92713224c6d4a9ec8bec08a924c2",
@@ -189,12 +191,13 @@
     "10233": "6bc8c645c85a27da9d19e4fd1915728071f92327",
     "10235": "ccbc1ce122ed2597f92b0a852cb64b9340c062d2",
     "10236": "8eb4cc9d8bd9c19b2ab82d5c780a5c987eb12aa5",
-    "10237": "f669b789448ea24c527bcafc698826919e483a45",
+    "10237": "b42ba858dac8a6f31d225d0b030192039d914d67",
     "10238": "32ff96232eff5a09f6732521a8d19b072d7dbcc3",
     "10239": "f896b24f18cde1dc809d58f887622c4c98e8c998",
-    "10241": "c33fcb2e1f0ac187b7c81b3635105910fe9b3214",
+    "10241": "51e75541bc6247d51305469914cd64a39ce0937d",
     "10243": "6465106c20341881a5ee8fd4aecded9b72290eef",
     "10245": "9b9935e64abc2e31f85dadef8b849827244da118",
+    "10246": "f6ebc654f97a977cab7c1313a50a6daf34964286",
     "9293": "8454f5786ad0aae94dbb407da1b0c88e2e56a8ee",
     "9463": "36a498df61b27be56501239ab01de0c27d2c534c",
     "9757": "c62ba33766338d6b896c836ffc39e228ef601228",
@@ -307,6 +310,10 @@
     "chiliz:vcf": {
      "first_seen": "2026-11-15T12:52:20+00:00",
      "url": "https://github.com/BitGo/BitGoJS/pull/10130"
+    },
+    "eth:antx": {
+     "first_seen": "2026-11-26T11:18:46+00:00",
+     "url": "https://github.com/BitGo/BitGoJS/pull/10237"
     },
     "eth:armcwbtc": {
      "first_seen": "2026-11-17T11:30:59+00:00",
