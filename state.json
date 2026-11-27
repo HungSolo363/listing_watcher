@@ -1,7 +1,7 @@
 {
  "etags": {
-  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"4385e6ad47dff4a97de7e6da3a9c31ad688b9fde877453dd42d69fb3471ab29f\"",
-  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"2e78f1210f159e46543d7ef55a414125c26dd7e9679ffee89adefa4321105728\""
+  "https://api.github.com/repos/BitGo/BitGoJS/commits?per_page=20": "\"6f9233df275f2c9c3f38a4c3b0093894e7062ae14e8b9538c195d1306e3adffa\"",
+  "https://api.github.com/repos/BitGo/BitGoJS/pulls?state=open&sort=updated&direction=desc&per_page=50": "\"ea2fde30781dc7ff7996aafccae018f6b9dfc1a76a311fad2eca021dfa05eac6\""
  },
  "repos": {
   "BitGo/BitGoJS": {
@@ -147,7 +147,11 @@
     "2c5e3493fa135bf00b7fafc4393c397cfcbdb33b",
     "523baeb8c50a25bb676f616427451fbbec1cf4f0",
     "466a0b96de6e62813d1d969bd53b223ae89c8c64",
-    "85300c75b47d5bbde0b0e34e078435bed5cab078"
+    "85300c75b47d5bbde0b0e34e078435bed5cab078",
+    "21738ba9bd91f15b4dcb5489d2dc2868490c01bd",
+    "014eff11bbd0207b9a411bc70ff8f29277b68c4f",
+    "9ebc2db55e86aa6eac6486b45c3245b7a2fe110b",
+    "90e8287a9dc8359252226317ac9e60286b902740"
    ],
    "pr_heads": {
     "10000": "7affce90645d92713224c6d4a9ec8bec08a924c2",
@@ -206,7 +210,7 @@
     "10225": "8afaa596b6f69ff6e0515c8fa0510268de7feacf",
     "10226": "7b70697e22f2cad171be96240f99b671eb0e1787",
     "10227": "c9fef92748122d3b49e047c3d9bf9867b624442d",
-    "10228": "3e00ac70721dea711722e50c6b11ea43be94333d",
+    "10228": "ee9b0c3d21c9a557e9e429e6a4ce419572d2c2a8",
     "10229": "521516ade3e07c568ed2429cc9b67c772d398710",
     "10230": "a8870343bc8aa2b49559680a4b4f2d161dc6833b",
     "10231": "8a959726cfe926c14d4d04dfb1b2e68108b55e4c",
